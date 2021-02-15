@@ -1,2 +1,1 @@
-# Gerald
-My first repository on GitHub
+<img src="https://github.com/Gerald-Robles/Gerald/blob/main/grader-task-android.gif" width=250><br>
