@@ -3,7 +3,7 @@
 
 Hello John,
 
-We appreciate that you really want to be part of the Advanced track but as of this moment, we won't be able to transfer you because we want to make sure that you are suitably prepared by taking the Beginner track so that you will know the basic skills that you will be needing for the next two levels of this course: Intermediate and Advanced track, as Codepath strongly believes that **all subskills rely upon at least one fundamental skill -- the basic skill.**
+We appreciate that you really want to be part of the Advanced track but as of this moment, we won't be able to transfer you because we want to make sure that you are suitably prepared by taking the [Beginner track](https://courses.codepath.org/snippets/advanced_software_eng/overview) so that you will know the basic skills that you will be needing for the next two levels of this course: [Intermediate](https://courses.codepath.org/snippets/intermediate_software_eng/overview) and [Advanced track](https://courses.codepath.org/snippets/advanced_software_eng/overview), as Codepath strongly believes that **all subskills rely upon at least one fundamental skill -- the basic skill.**
 
 One of our goal is really to ramp you up on everything you need to know about the Interview Prep program **in just 12 weeks.** 
 
