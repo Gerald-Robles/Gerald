@@ -1,5 +1,5 @@
 # Scenario A: Request to bump up to Advanced Track
-## Draft email response based on the scenarios
+## Draft email response based on Scenario A
 
 Hello John,
 
